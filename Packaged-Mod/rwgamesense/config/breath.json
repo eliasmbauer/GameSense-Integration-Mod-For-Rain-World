@@ -1,0 +1,23 @@
+{
+  "game": "RAINWORLD",
+  "event": "BREATH",
+  "icon_id": 11,
+  "priority": 2,
+  "min_value": 0,
+  "max_value": 100,
+  "value_optional": false,
+  "handlers": 
+  [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "percent",
+      "custom-zone-keys": [70, 71, 72, 73, 74, 75, 76, 77, 78],
+      "color": 
+      {
+        "red":  0,
+        "green": 0,
+        "blue": 255
+      }
+    }
+  ]
+}

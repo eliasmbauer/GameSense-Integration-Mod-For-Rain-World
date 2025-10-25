@@ -1,0 +1,9 @@
+{
+  "game": "RAINWORLD",
+  "game_display_name": "Rain World",
+  "icon_color_id": 1,
+  "icon_glyph_id": 10,
+  "developer": "eliasmbauer",
+  "gamesense_supported": true,
+  "handlers": []
+}

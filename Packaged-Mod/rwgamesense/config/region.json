@@ -1,0 +1,17 @@
+{
+  "game": "RAINWORLD",
+  "event": "REGION",
+  "icon_id": 24,
+  "priority": 0,
+  "min_value": 0,
+  "max_value": 0,
+  "value_optional": true,
+  "handlers": [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "context-color",
+      "custom-zone-keys": [43, 57, 225, 224, 227, 226, 230, 231, 162, 228, 229, 40, 49, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 101, 240],
+      "context-frame-key": "regionColor"
+    }
+  ]
+}

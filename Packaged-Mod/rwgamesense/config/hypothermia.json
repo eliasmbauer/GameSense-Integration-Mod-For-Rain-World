@@ -1,0 +1,23 @@
+{
+  "game": "RAINWORLD",
+  "event": "HYPOTHERMIA",
+  "icon_id": 43,
+  "priority": 2,
+  "min_value": 0,
+  "max_value": 7,
+  "value_optional": false,
+  "handlers": 
+  [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "percent",
+      "custom-zone-keys": [4,22,7, 9, 10, 11, 13],     
+      "color": 
+      {
+        "red":  255,
+        "green": 99,
+        "blue": 0
+      }
+    }
+  ]
+}

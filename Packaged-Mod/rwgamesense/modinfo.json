@@ -1,0 +1,7 @@
+{
+    "id": "rwgamesense",
+    "name": "Rain World GameSense",
+    "authors": "eliasmbauer",
+    "description": "A Rain World mod for Bepinex that utilizes the Steelseries GameSense API, giving you in game stats on your Steelseries keyboard for Rain World.",
+    "checksum_override_version": false
+}

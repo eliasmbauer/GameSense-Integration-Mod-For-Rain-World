@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body style="font-family: monospace; background: #111; color: white;">
+<div style="display: flex; flex-wrap: wrap; width: 1000px;">
+<script>
+const colors = {
+  "White": [255, 255, 255],
+  "Yellow": [255, 255, 0],
+  "Red": [255, 60, 0],
+  "Gourmand": [255, 194, 80],
+  "Artificer": [255, 0, 45],
+  "Rivulet": [0, 255, 255],
+  "Spear": [150, 0, 255],
+  "Saint": [0, 255, 0],
+  "Watcher": [20, 20, 104],
+  "Inv": [16, 6, 104],
+  "CUSTOM_SCUG": [0, 0, 0]
+};
+
+for (const [name, [r, g, b]] of Object.entries(colors)) {
+  document.write(`<div style="width: 80px; height: 80px; background: rgb(${r},${g},${b}); display: flex; align-items: center; justify-content: center; color: white; margin: 4px;">${name}</div>`);
+}
+</script>
+</div>
+</body>
+</html>
