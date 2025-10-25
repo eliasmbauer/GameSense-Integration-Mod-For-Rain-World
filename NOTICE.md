@@ -2,6 +2,7 @@
 
 ## Project
 **Project Name:** GameSense-Integration-For-Rain-World
+
 **Repository:** [https://github.com/eliasmbauer/Rain-World-GameSense-Mod](https://github.com/eliasmbauer/GameSense-Integration-For-Rain-World/edit/main/NOTICE.md)
 
 ## Original Author
