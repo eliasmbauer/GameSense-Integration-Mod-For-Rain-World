@@ -1,4 +1,4 @@
-# Rain World GameSense Mod
+# Gamesense Integration For Rain World
 **A BepInEx mod that integrates Rain World with the SteelSeries GameSense API, providing live in-game stats on your SteelSeries keyboard.**
 
 ## Compatible Keyboards
