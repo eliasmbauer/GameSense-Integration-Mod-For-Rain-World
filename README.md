@@ -2,7 +2,7 @@
 **A BepInEx mod that integrates Rain World with the SteelSeries GameSense API, providing live in-game stats on your SteelSeries keyboard.**
 
 ## Compatible Keyboards
-Any steelseries keyboard with per-key RGB lighting is compatible. This includes all Apex 5, Apex 7, Apex 9, Apex Pro lineups for full sized, tkl, and 60% keyboards.
+Any steelseries keyboard with per-key RGB lighting is compatible. This includes all Apex 5, Apex 7, Apex 9, and Apex Pro lineups for full sized, tkl, and 60% keyboards.
 
 ## An Example Of The Keyboard In Game
 ![Saint Keyboard Example](examples/Keyboard-Example-Survivor.png)
