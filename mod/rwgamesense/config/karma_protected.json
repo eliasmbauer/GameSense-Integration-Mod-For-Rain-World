@@ -1,0 +1,18 @@
+{
+  "game": "RAINWORLD",
+  "event": "KARMA_PROTECTED",
+  "icon_id": 12,
+  "priority": 3,
+  "min_value": 0,
+  "max_value": 0,
+  "value_optional": true,
+  "handlers": 
+  [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "context-color",
+      "custom-zone-keys": [53],     
+      "context-frame-key": "karmaProtectedColor"
+    }
+  ]
+}

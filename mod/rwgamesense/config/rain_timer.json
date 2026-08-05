@@ -1,0 +1,23 @@
+{
+  "game": "RAINWORLD",
+  "event": "RAIN_TIMER",
+  "icon_id": 42,
+  "priority": 2,
+  "min_value": 0,
+  "max_value": 100,
+  "value_optional": false,
+  "handlers": 
+  [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "percent",
+      "zone": "function-keys",
+      "color": 
+      {
+        "red":  0,
+        "green": 255,
+        "blue": 255
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "game": "RAINWORLD",
+  "event": "SLUGCAT",
+  "icon_id": 33,
+  "priority": 2,
+  "min_value": 0,
+  "max_value": 0,
+  "value_optional": true,
+  "handlers": 
+  [
+    {
+      "device-type": "rgb-per-key-zones",
+      "mode": "context-color",
+      "custom-zone-keys": [80, 81, 79, 82],     
+      "context-frame-key": "slugcatColor"
+    }
+  ]
+}
