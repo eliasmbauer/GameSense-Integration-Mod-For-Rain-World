@@ -37,7 +37,7 @@ There are two different ways that this mod can be configured
 - **Through Json files in the mod's config folder: `/Rain World/RainWorld_Data/StreamingAssets/mods/rwgamesense/config`** - More advanced configuration like the exact payload instructions, and RGB arrays used by the mod.
 
 ## Using The Engine To Configure Stats
-![[Engine-Example.png|Pasted image 20260316193505.png]]
+![Engine Example](examples/Engine-Example.png)
 
 (Any bind-event json file will be overruled by any existing event configurations in the steelseries app.)
 
